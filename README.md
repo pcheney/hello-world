@@ -1,3 +1,3 @@
 # hello-world
-learning curve
-Adding a bit about myself.
+The learning curve.
+Somewhere for me to play and see what happens.
